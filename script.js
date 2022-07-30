@@ -36,31 +36,31 @@ const quizData = [
         correct: "c"
     },{
         question: "Pernah beliin pulsa / kuota buat pacar?",
-        a: "Sekali doang sih",
+        a: "Nabung mending",
         b: "Ga deh mending beli boba",
-        c: "Iyaa biar bisa chat ama ayang",
+        c: "Iyaa, biar bisa chat ama ayang",
         d: "Ga ada duit",
         correct: "c"
     }, {
         question: "Kamu ke bioskop sama pacar berapa kali seminggu?",
         a: "1 Kali",
         b: "Tiap ada film bagus / trend aja",
-        c: "Tiap hari Sabtu dan Minggu",
+        c: "Tiap weekend",
         d: "Mending nonton youtube",
         correct: "c"
     }, {
         question:"Sebarapa sering mabar game/bikin konten tiktok ama ayang?",
-        a: "Hampir tiap malam/hari",
+        a: "Bisa dibilang sering",
         b: "Cuma sekali",
-        c: "Sewajar nya aja",
+        c: "Jarang banget",
         d: "Buat gabut doang sih",
         correct: "a"
     }, {
-        question: "Pernah ngasih kado seharga 500 ribu ke pacar?",
-        a: "Pernah pas ultah",
-        b: "Diawal pacaran iya",
-        c: "Tiap bulan selalu ada hadiah buat ayang",
-        d: "Cuma barang dibawah 100 Ribu",
+        question: "Pernah ngasih kado seharga 200 ribu ke pacar?",
+        a: "Ga kea nya",
+        b: "Nyari uang susah om!",
+        c: "Iya pernah",
+        d: "Cuma barang dibawah 50 Ribu",
         correct: "c"
     }, {
         question: "Pernah tukeran akun WhatsApp/Instagram?",
@@ -71,14 +71,14 @@ const quizData = [
         correct: "a"
     }, {
         question: "Pernah nganter makan ke ayang buat makan siang?",
-        a: "Hampir tiap hari sih",
+        a: "Udah sering",
         b: "Baru sekali",
         c: "Aku gabisa masak",
         d: "Mending masak mi buat gua sendiri",
         correct: "a"
     }, {
         question: "Nabung dari uang jajan, buat jalan sama ayang?",
-        a: "Ya, biar bisa makan bareng",
+        a: "Ya, bener banget",
         b: "Paket internet gua abis",
         c: "Ga",
         d: "Aku lebih mo buat beli hape baru sih",
@@ -88,18 +88,18 @@ const quizData = [
         a: "Ga modal!",
         b: "Mau banget, pasti seru",
         c: "Malu diliatin orang",
-        d: "Ga kenyanyg aku",
+        d: "Ga kenyang aku",
         correct: "b"
     }, {
         question: "Pernah tidur berdua dalam kamar/rumah, tapi isi nya cuma kalian berdua?",
-        a: "Pernah pas dia main ke rumah",
+        a: "Pernah pas dia ke rumah",
         b: "Ga berani khilaf!",
         c: "Duduk berdua doang, ga tidur",
         d: "Engga mau",
         correct: "a"
     }, {
         question: "Suka musik/film/game/aplikasi karena ayang yang ngajarin?",
-        a: "Mau mau aja biar bisa sama ama dia",
+        a: "Mau mau aja, biar bisa sama'an ama dia",
         b: "Gaa",
         c: "Aku gabisa dipaksa",
         d: "Gua punya selera sendiri",
@@ -122,7 +122,7 @@ const quizData = [
         question: "Pas ketemu minimal cium/pegang tangan/peluk?",
         a: "Iya",
         b: "Ga pernah",
-        c: "Minimal mandi, itu yang bener",
+        c: "Minimal mandi, itu yang bener!",
         d: "Belum sah",
         correct: "a"
     }
