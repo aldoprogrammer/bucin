@@ -27,6 +27,104 @@ const quizData = [
         c: "15 aja udah ga tahan",
         d: "Cus aja lah ya",
         correct: "a"
+    }, {
+        question: "Berapa uang yang kamu habiskan saat sekali jalan sama pacar / crush mu?",
+        a: "100 Ribu",
+        b: "50 Ribu",
+        c: "Lebih dari 300 Ribu",
+        d: "Bayar setengah-setengah",
+        correct: "c"
+    },{
+        question: "Pernah beliin pulsa / kuota buat pacar?",
+        a: "Sekali doang sih",
+        b: "Ga deh mending beli boba",
+        c: "Iyaa biar bisa chat ama ayang",
+        d: "Ga ada duit",
+        correct: "c"
+    }, {
+        question: "Kamu ke bioskop sama pacar berapa kali seminggu?",
+        a: "1 Kali",
+        b: "Tiap ada film bagus / trend aja",
+        c: "Tiap hari Sabtu dan Minggu",
+        d: "Mending nonton youtube",
+        correct: "c"
+    }, {
+        question:"Sebarapa sering mabar game/bikin konten tiktok ama ayang?",
+        a: "Tiap malam/hari",
+        b: "Dulu pernah sekali",
+        c: "Sewajar nya doang",
+        d: "Buat gabut doang sih",
+        correct: "a"
+    }, {
+        question: "Pernah ngasih kado seharga 500 ribu ke pacar?",
+        a: "Pernah pas ultah nya",
+        b: "Diawal pacaran iya",
+        c: "Tiap bulan selalu ada hadiah buat ayang",
+        d: "Cuma barang dibawah 100 Ribu",
+        correct: "c"
+    }, {
+        question: "Pernah tukeran akun WhatsApp/Instagram?",
+        a: "Iya biar bisa cek sapa yang chat dia",
+        b: "Privasi dong",
+        c: "Bego lu",
+        d: "Dia ngajak, tapi gua gamau",
+        correct: "a"
+    }, {
+        question: "Pernah nganter makan ke ayang buat makan siang?",
+        a: "Tiap hari sih",
+        b: "Sekali seminggu",
+        c: "Aku gabisa masak",
+        d: "Mending masak mi buat gua sendiri",
+        correct: "a"
+    }, {
+        question: "Nabung dari uang jajan, buat jalan sama ayang?",
+        a: "Ya, biar bisa makan bareng",
+        b: "Paket internet gua abis",
+        c: "Sekali",
+        d: "Aku lebih mo buat beli hape baru sih",
+        correct: "a"
+    }, {
+        question: "Pernah makan nasgor satu piring berdua?",
+        a: "Ga modal!",
+        b: "Intimasi nya berasa, pengen lagi deh",
+        c: "Malu diliatin orang",
+        d: "Kalo didalem kos sih oke aja",
+        correct: "b"
+    }, {
+        question: "Pernah tidur berdua dalam kamar/rumah, tapi isi nya cuma kalian berdua?",
+        a: "Pernah pas dia main ke rumah",
+        b: "Ga berani khilaf!",
+        c: "Duduk berdua doang, ga tidur",
+        d: "Engga mau",
+        correct: "a"
+    }, {
+        question: "Suka musik/film/game/aplikasi karena ayang yang ngajarin?",
+        a: "Mau mau aja biar bisa match ama dia",
+        b: "Gaa",
+        c: "Aku gabisa dipaksa",
+        d: "Gua punya selera sendiri",
+        correct: "a"
+    }, {
+        question: "Menurut lu berapa kali seminggu buat jalan ama doi?",
+        a: "Seminggu sekali",
+        b: "Dua minggu aja cukup",
+        c: "Kalo sama-sama punya waktu",
+        d: "Pengen ketemu, tapi gamo terus-terusan",
+        correct: "a"
+    }, {
+        question: "Sering antar jemput ama ayang?",
+        a: "Tiap pulang sekolah/kampus/kerja",
+        b: "Ga pernah",
+        c: "Sekali doang",
+        d: "Naik grab aja",
+        correct: "a"
+    }, {
+        question: "Pas ketemu minimal cium/pegang tangan/peluk?",
+        a: "Iya",
+        b: "Ga pernah",
+        c: "Emph",
+        d: "Belum sah",
+        correct: "a"
     }
 ];
 const answerEls = document.querySelectorAll(".answer");
