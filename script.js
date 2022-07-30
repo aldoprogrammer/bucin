@@ -44,8 +44,8 @@ const quizData = [
     }, {
         question: "Kamu ke bioskop sama pacar berapa kali seminggu?",
         a: "1 Kali",
-        b: "Tiap ada film bagus / trend aja",
-        c: "Tiap weekend",
+        b: "Sebulan 1 kali cukup",
+        c: "Tiap weekend / film bagus aja",
         d: "Mending nonton youtube",
         correct: "c"
     }, {
