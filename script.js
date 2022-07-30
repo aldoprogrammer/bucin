@@ -3,7 +3,7 @@ const quizData = [
         question: 'Chat tiap hari?',
         a: 'Iya',
         b: 'Engga',
-        c: 'Sesekali',
+        c: 'Jarang',
         d: 'Ga juga sih',
         correct: 'a'
     }, {
