@@ -107,8 +107,8 @@ const quizData = [
     }, {
         question: "Menurut lu berapa kali seminggu buat jalan ama doi?",
         a: "Seminggu sekali",
-        b: "Dua minggu aja cukup",
-        c: "Kalo sama-sama punya waktu",
+        b: "1 bulan sekali aja cukup",
+        c: "Saat sama-sama free",
         d: "Pengen ketemu, tapi gamo terus-terusan",
         correct: "a"
     }, {
